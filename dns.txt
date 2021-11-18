@@ -1,0 +1,3 @@
+A Record : d2fzc2fmyxq : 45.76.44.151 : Auto
+CNAME Record : www : packingpage.namecheap.com. : 30min
+URL Redirect Record : @ : http://www.yesserly.com : Unmasked
